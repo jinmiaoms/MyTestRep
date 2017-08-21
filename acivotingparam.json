@@ -1,0 +1,16 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "imageRegistryLoginServer": {
+      "value": "jmacr.azurecr.io"
+    },    
+   "imageRegistryUsername": {
+      "value": "jmacr"
+    },
+   "imageRegistryPassword": {
+      "value": "ohz4/m+VkyIRZwO+2LQI3vr6n+vmUIi6"
+    }
+   
+  }
+}
